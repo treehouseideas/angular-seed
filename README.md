@@ -1,1 +1,1 @@
-Simple To-do App using AngularJS + Twitter Bootstrap
+To-do App using AngularJS + Twitter Bootstrap
